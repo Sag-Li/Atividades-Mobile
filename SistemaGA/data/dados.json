@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nome": "João Silva",
+    "disciplinas": [
+      { "nome": "Matemática", "notas": [8, 7, 9] },
+      { "nome": "Física", "notas": [6, 5, 6] }
+    ],
+    "cadastroCompleto": true
+  },
+  {
+    "id": 2,
+    "nome": "Maria Santos",
+    "disciplinas": [
+      { "nome": "Matemática", "notas": [4, 5, 4] },
+      { "nome": "Física", "notas": [9, 8, 9] }
+    ],
+    "cadastroCompleto": true
+  }
+]
